@@ -6,7 +6,7 @@ model = pk.load(open('model.pkl', 'rb'))
 introduction = """
 ### About This Project:
 
-This is a machine learning app built using the Iris dataset. The model uses a Decision Tree Classifier  
+This is a machine learning app built using the Iris dataset from Kaggle. The model uses a Decision Tree Classifier  
 to predict the species of an Iris flower based on the four features: Sepal Length, Sepal Width, Petal Length,  
 and Petal Width. You can input these values and the model will predict the corresponding species.
 """
